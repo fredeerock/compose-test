@@ -1,0 +1,2 @@
+- Start with `docker-compose -up -d`
+- Rebuild image with `docker-compose -up --build -d`
